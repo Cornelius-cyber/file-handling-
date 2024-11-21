@@ -1,0 +1,2 @@
+Hello, Python! This is a test file.
+Let's check if the file modification works properly.
